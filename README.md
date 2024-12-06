@@ -1,2 +1,2 @@
 # Personal_Website
- Website describing about me
+Just a landing page
